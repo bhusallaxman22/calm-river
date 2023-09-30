@@ -45,7 +45,7 @@ export default function Header() {
                 <a href="tel:+1-800-123-4567" className="block">
                   <span className="text-sm leading-5 font-medium text-gray-600 hover:text-gray-900 md:m-2 transition duration-150 ease-in-out">
                     <i className="fas fa-phone-alt"></i>
-                    <span className="hidden md:inline"> +1-800-123-4567 </span>
+                    <span className="hidden md:inline"> +1-214-666-8109 </span>
                   </span>
                 </a>
               </li>
