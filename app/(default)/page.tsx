@@ -1,6 +1,7 @@
 export const metadata = {
-  title: "Home - Simple",
-  description: "Page description",
+  title: "Calm River Consulting",
+  description:
+    "Calm River Consulting. One stop shop for all your consulting needs.",
 };
 
 import Hero from "@/components/hero";
@@ -12,7 +13,6 @@ import Newsletter from "@/components/newsletter";
 export default function Home() {
   return (
     <>
-    <title>Calm River Consulting</title>
       <Hero />
       <Features />
       <FeaturesBlocks />
